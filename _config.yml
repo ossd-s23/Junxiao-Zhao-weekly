@@ -35,9 +35,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: Junxiao-Zhao
+  github: https://github.com/Junxiao-Zhao
   instagram:
-  linkedin: Junxiao Zhao
+  linkedin: https://www.linkedin.com/in/junxiao-zhao-746512250/
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -93,3 +93,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+
+# Include future blogs
+future: true
